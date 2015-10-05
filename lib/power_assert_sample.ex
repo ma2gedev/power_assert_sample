@@ -1,0 +1,2 @@
+defmodule PowerAssertSample do
+end
