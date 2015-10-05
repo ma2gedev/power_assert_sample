@@ -1,4 +1,4 @@
-PowerAssertSample
+sample test code with Power Assert
 =================
 
-** TODO: Add description **
+Sample test code use [Power Assert](https://github.com/ma2gedev/power_assert_ex) in Elixir
