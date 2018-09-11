@@ -27,6 +27,6 @@ defmodule PowerAssertSample.Mixfile do
   #
   # Type `mix help deps` for more examples and options
   defp deps do
-    [{:power_assert, "~> 0.0.3"}]
+    [{:power_assert, "~> 0.1.0"}]
   end
 end
